@@ -1,0 +1,16 @@
+D:\VisioStudioProjects\Test1\Test1\bin\Debug\Test1.exe.config
+D:\VisioStudioProjects\Test1\Test1\bin\Debug\Test1.exe
+D:\VisioStudioProjects\Test1\Test1\bin\Debug\Test1.pdb
+D:\VisioStudioProjects\Test1\Test1\bin\Debug\Test1.xml
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.ForgotPassword.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.Form1.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.Resources.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.New_Password.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.PupilForm.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.PupilResults.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.openReport.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.TeacherForm.resources
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Project_Pri_School-Results.vbproj.GenerateResource.Cache
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.exe
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.xml
+D:\VisioStudioProjects\Test1\Test1\obj\Debug\Test1.pdb

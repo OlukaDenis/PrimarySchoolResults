@@ -1,0 +1,272 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Test1
+</name>
+</assembly>
+<members>
+<member name="T:Test1.TeacherDataset.TeacherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Test1.TeacherDataset.TeacherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Test1.TeacherDataset.TeacherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Test1.TeacherDataset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Test1.TeacherDatasetTableAdapters.TeacherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Test1.TeacherDatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Test1.TeacherDataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Test1.TeacherDatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(Test1.TeacherDataset,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Test1.TeacherDatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(Test1.TeacherDataset,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Test1.TeacherDatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Test1.TeacherDatasetTableAdapters.TableAdapterManager.UpdateAll(Test1.TeacherDataset)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Test1.TeacherDatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Test1.TeacherDatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Test1.TeacherDatasetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Test1.DataSet1.PupilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Test1.DataSet1.PupilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Test1.DataSet1.PupilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Test1.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Test1.DataSet1TableAdapters.PupilTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Test1.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Test1.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Test1.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Test1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Test1.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Test1.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Test1.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Test1.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Test1.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Test1.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Test1.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Test1.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_Property_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_Property_40px_2blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Group_Man_Man_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Group_Man_Man_40px_2blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Group_Man_Man_48px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Male_26px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Male_32px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Male_42px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Add_User_Male_42px_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Administrator_Male_42px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Administrator_Male_42px_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Cancel_16px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Checked_16px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Circled_User_Male_100px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Classroom_100px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Contacts_26px_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.diploma_clipart_graduation_cap_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Edit_60px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Graduation_Cap_100px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Graduation_Cap_100px1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.kisspng_school_uniform_national_primary_school_dress_students_5ad763543cad11_7027621115240651082485">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Logout_Rounded_Up_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.School_Director_100px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Shutdown_26px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Shutdown_42px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.Student_Male_100px_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_40px_2blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Group_Man_Man_42px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Group_Man_Man_42px_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Group_Man_Man_52px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Groups_40px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Groups_40px_2blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Groups_40px1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Male_26px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Test1.My.Resources.Resources.User_Male_32px">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Test1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
